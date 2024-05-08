@@ -1,4 +1,6 @@
-# INSTRUCTION 
+# Streamlit dashboard analyzing motor vehicle collisions in NYC
+
+## INSTRUCTION 
 
 Run `streamlit run app.py`  to execute the code in this file, and you will see a Streamlit app with an interactive widget 
 
